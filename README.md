@@ -121,3 +121,4 @@ $ sk generate
 You can customize your generator template working with files in .skaffolder folder in your project root.
 
 Please refer to https://skaffolder.com/#/documentation/skaffolder-cli for more information.
+One more time
